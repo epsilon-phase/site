@@ -223,4 +223,17 @@ in  [ Person::{
        , gitLink = "https://github.com/mjeffin"
        , twitter = "https://twitter.com/mpjeffin"
       }
+      , Person::{
+      , name = "Violet White"
+      , tags = 
+      [ "Rust",
+      , "C++",
+      , "C",
+      , "Linux",
+      , "C#",
+      , "Qt"
+      ]
+      , gitLink = "https://github.com/epsilon-phase"
+      , twitter = "N/A"
+      }
     ]
